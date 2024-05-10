@@ -1,0 +1,12 @@
+*{
+  background-color: antiquewhite;
+  text-align: center;
+}
+.btn{
+  padding:5px;
+  
+}
+h1{
+  color:red;
+  font-family: 'Courier New', Courier, monospace;
+}
